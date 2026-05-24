@@ -1,5 +1,6 @@
-# My Game
 
+# My Game
+<img width="640" height="640" alt="Planes Wars! Come on, man~ ~ 2026-05-24 22-59-52 00_00_00-00_00_30" src="https://github.com/user-attachments/assets/eca1d92d-581c-4b83-a7eb-3a504e9f4095" />
 This is a shooter game written in C. It breaks away from the stereotypes of most traditional "aircraft battle" games. By incorporating innovative mechanics, unique rules, and custom graphics, it offers a refreshing gameplay experience that is truly eye-catching.
 
 ## How to Play
